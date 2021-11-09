@@ -1,5 +1,7 @@
-Projeto do curso de Desenvolvimento WEB da Origamid.
-Desenvolvido com HTML, CSS e o básicão de Javascript.
-Um pouco de PHP no formulário.
+## Desenvolvimento Web
+
+Projeto do curso de Desenvolvimento WEB da Origamid. <br>
+Desenvolvido com HTML, CSS e o básicão de Javascript. <br>
+Um pouco de PHP no formulário. <br>
 
 #Bikcraft
